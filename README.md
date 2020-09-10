@@ -1,2 +1,2 @@
 # Hello-World
-My journey of Learning how to code
+My journey of learning how to code
