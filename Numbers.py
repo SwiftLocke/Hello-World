@@ -1,0 +1,17 @@
+from math import *
+print(2)
+print(2.0987)
+print(-2.0987)
+print(3 + 4.5)
+print(10 % 6)
+my_num = -5
+print(my_num)
+print(str(my_num) + " my favourite number")
+print(abs(my_num))
+print(pow(3, 2))
+print(max(4, 6))
+print(min(4, 6))
+print(round(3.2))
+print(floor(4.9))
+print(ceil(5.1))
+print(sqrt(49))
